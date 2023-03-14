@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ethers": "^6.1.0",
+    "synchronizer-v2": "^2.4.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.3"
+  }
+}
